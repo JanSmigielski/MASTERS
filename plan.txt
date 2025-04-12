@@ -1,0 +1,4 @@
+1 - skupić się na simple modelu i jesli na nim uzyskam wyniki to ide dalej i tylko HML i equity
+2 - przewidujemy excess returny (uzglednione to w HML juz jest)
+3 - rfr to tbl/12 albo rfree z danych G-W
+4 - mam lookahead bias !! - usuń
