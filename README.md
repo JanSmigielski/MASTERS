@@ -24,7 +24,7 @@ The project explores the use of machine learning techniques to forecast US equit
 
 ---
 
-## 📊 Data Sources
+## Data Sources
 
 - **Predictors:**  
   Macroeconomic variables are taken from the dataset published by *Welch & Goyal (2008)*, commonly used in return forecasting research. These variables include interest rates, inflation, dividend yields, valuation ratios, and other market indicators.
@@ -35,7 +35,7 @@ The project explores the use of machine learning techniques to forecast US equit
 
 ---
 
-## 🧪 Performance Evaluation
+## Performance Evaluation
 
 Each model's predictive ability is assessed using the following financial metrics:
 
@@ -47,7 +47,7 @@ Each model's predictive ability is assessed using the following financial metric
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License** — see the `LICENSE` file for details.
 
